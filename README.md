@@ -1,4 +1,4 @@
-<p align="center">
+<p style="font-size: 25px; font-weight: 600; color: #F75C7E;" align="center">
 Abu Bakar
 </p>
 
