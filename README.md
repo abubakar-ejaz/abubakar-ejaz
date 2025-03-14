@@ -1,4 +1,4 @@
-<h3 style="font-size: 25px; font-weight: 600; color: #F75C7E;" align="center"> Abu Bakar </h3>
+<h1 style="font-size: 25px; font-weight: 600; color: #F75C7E;" align="center"> Abu Bakar </h1>
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
