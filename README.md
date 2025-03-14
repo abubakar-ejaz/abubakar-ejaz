@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://avatars.githubusercontent.com/u/202931554?v=4" /></a>
+      <img  style="border-radius: 50px;" src="https://avatars.githubusercontent.com/u/202931554?v=4" /></a>
 </p>
 
 ---
