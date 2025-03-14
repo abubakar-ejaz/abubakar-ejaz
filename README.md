@@ -1,10 +1,5 @@
 <h1 style="font-size: 25px; font-weight: 600; color: #F75C7E;" align="center"> Abu Bakar </h1>
 
-<p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img  style="border-radius: 50px;" src="https://avatars.githubusercontent.com/u/202931554?v=4" /></a>
-</p>
-
 ---
 
 ## 🚀 About Me
