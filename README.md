@@ -20,9 +20,9 @@ I'm a passionate **Full-Stack Developer** specializing in **Shopify theme develo
 ## 📊 GitHub Stats  
 
 <p align="center">
-    <a href="https://github.com/AbuBakarDev?tab=repositories&sort=stargazers">
+    <a href="https://github.com/abubakar-ejaz?tab=repositories&sort=stargazers">
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AbuBakarDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    <a href="https://github.com/AbuBakarDev?tab=followers">
+    <a href="https://github.com/abubakar-ejaz?tab=followers">
       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AbuBakarDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
@@ -30,8 +30,8 @@ I'm a passionate **Full-Stack Developer** specializing in **Shopify theme develo
 
 ## 📌 Featured Projects  
 
-- [**Custom Shopify Theme**](https://github.com/AbuBakarDev/custom-shopify-theme) - A fully customized Shopify theme with advanced Liquid scripting.
-- [**WordPress Plugin - Custom Shortcodes**](https://github.com/AbuBakarDev/wp-custom-shortcodes) - A WordPress plugin to create and manage dynamic shortcodes.
+- [**Custom Shopify Theme**](https://github.com/abubakar-ejaz) - A fully customized Shopify theme with advanced Liquid scripting.
+- [**WordPress Plugin - Custom Shortcodes**](https://github.com/abubakar-ejaz) - A WordPress plugin to create and manage dynamic shortcodes.
 
 ---
 
