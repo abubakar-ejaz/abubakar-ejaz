@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20WordPress%20%26%20Shopify%20Developer;Expert%20in%20Liquid%2C%20PHP%2C%20Laravel%20%26%20JavaScript;5%2B%20years%20of%20experience%20in%20web%20development;Building%20seamless%20%26%20high-performance%20websites&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+      <img src="https://avatars.githubusercontent.com/u/202931554?v=4" /></a>
 </p>
 
 ---
